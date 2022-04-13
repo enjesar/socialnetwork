@@ -1,0 +1,20 @@
+
+
+.messages__item{
+    padding: 20px;
+    background-color: #333333;
+    border-radius: 15px;
+    max-width: 60%;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+
+}
+
+.messages__item_image img {
+    width: 40px;
+    height: 40px;
+    margin-right: 20px;
+}

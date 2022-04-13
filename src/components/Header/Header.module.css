@@ -1,0 +1,13 @@
+.header {
+    grid-area: h;
+    background-color: white;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+
+.header__logo {
+    width: 55px;
+    margin-left: 35px;
+    margin-top: 9px;
+    transform: rotate(90deg);
+}

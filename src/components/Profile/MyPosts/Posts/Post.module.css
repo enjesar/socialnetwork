@@ -1,0 +1,28 @@
+
+
+
+.posts__item {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 2fr 12fr;
+    align-items: center;
+    padding: 10px;
+    border-radius: 10px;
+    border: #5e5e5e solid 1px;
+    margin-bottom: 10px;
+    background-color: #333333;
+}
+
+.posts__item__image {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.posts__item_likes {
+    margin-top: 5px;
+}
+
+.posts__item_messages{
+
+}
